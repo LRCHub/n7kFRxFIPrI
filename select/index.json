@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "STYLE",
+  "base_artist": "Hearts2Hearts",
+  "createdAt": "2025-12-26T11:33:04.634238Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "American Style",
+      "artist": "Old Dominion",
+      "has_synced": true,
+      "path": "select/01_American_Style_Old_Dominion.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cadillac Style",
+      "artist": "Sammy Kershaw",
+      "has_synced": false,
+      "path": "select/02_Cadillac_Style_Sammy_Kershaw.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cadillac Style (Album Version)",
+      "artist": "Sammy Kershaw",
+      "has_synced": false,
+      "path": "select/03_Cadillac_Style_(Album_Version)_Sammy_Kershaw.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Outta Style",
+      "artist": "Aaron Watson",
+      "has_synced": true,
+      "path": "select/04_Outta_Style_Aaron_Watson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Red Letters (Southern-Style Edit)",
+      "artist": "Crowder",
+      "has_synced": true,
+      "path": "select/05_Red_Letters_(Southern-Style_Edit)_Crowder.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Not Fair - Style Of Eye Remix",
+      "artist": "Lily Allen",
+      "has_synced": false,
+      "path": "select/06_Not_Fair_-_Style_Of_Eye_Remix_Lily_Allen.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Not Fair [Style Of Eye Remix] [Special Track]",
+      "artist": "Lily Allen",
+      "has_synced": false,
+      "path": "select/07_Not_Fair_[Style_Of_Eye_Remix]_[Special_Track]_Lily_Allen.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "My Style",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/08_My_Style_f(x).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pop Style",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/09_Pop_Style_Drake.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pop Style",
+      "artist": "Drake feat. The Throne",
+      "has_synced": true,
+      "path": "select/10_Pop_Style_Drake_feat._The_Throne.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pop Style (feat. The Throne)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/11_Pop_Style_(feat._The_Throne)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "God Gave Me Style",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/12_God_Gave_Me_Style_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "God Gave Me Style (Produced by Needlz for Dry Rain Entertainment, Inc)",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/13_God_Gave_Me_Style_(Produced_by_Needlz_for_Dry_Rain_Entertainment,_Inc)_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Infinite Style",
+      "artist": "Lemonade",
+      "has_synced": true,
+      "path": "select/14_Infinite_Style_Lemonade.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bite Our Style (Interlude)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/15_Bite_Our_Style_(Interlude)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Crazy Drunken Style",
+      "artist": "Masta Ace",
+      "has_synced": false,
+      "path": "select/16_Crazy_Drunken_Style_Masta_Ace.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "P.L.O. Style",
+      "artist": "Method Man",
+      "has_synced": false,
+      "path": "select/17_P.L.O._Style_Method_Man.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "STYLE",
+      "artist": "Hearts2Hearts",
+      "has_synced": false,
+      "path": "select/pl_01_STYLE_Hearts2Hearts.txt"
+    }
+  ]
+}
