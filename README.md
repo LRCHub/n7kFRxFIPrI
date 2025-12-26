@@ -1,0 +1,99 @@
+# Hearts2Hearts – STYLE
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+넌 왜 늘 튀는데
+진짜 재밌어
+Low-key 그 자체인데
+그게 별나
+열심이지 않아
+꾸미지 않아 Easy peasy
+근데 참 이상해
+왜 너만 보여
+같이 걷자 난 다 궁금해
+이어폰 속 Playlist
+뭐야 그 노래 뭔데
+학교 끝남 뭐해
+누구랑 친해 어떤 색 좋아
+I just wanna get close to you
+뭐할까 말해봐
+What you feelin’ like
+너의 멜로디 그 템포는 Free
+갇힐 것 하나 없지
+Get up on this
+Hey!
+손과 손 사이 미묘해졌지
+느낌 알지 지금부터
+1, 2, 3!
+Baby you make me smile
+네 Style은 다 맞아
+그게 너라서 더 좋아
+Got that one of a kind
+You got it
+‘Cause you’re just my type and
+I like your style
+Dududu dududu
+Dududu dududu
+‘Cause you’re just my type and
+I like your style
+Dududu dududu
+Dududu dududu
+Yeah you’re just my type and I
+like your style
+그 얼굴 위에
+내려앉아 녹은 해는 주홍빛 볼이
+됐어
+웃기지 이 순간마저
+세상 오직 너만 가능한 장면이지
+가졌어 넌 이미
+같이 걷자 난 다 궁금해
+너를 가슴 뛰게 하는 건 뭔데 Baby
+별난, 귀여운, 고집 있는 너를
+I just wanna get close to you
+내 맘이 보이니
+Hah hah hah ahhh
+흰 도화지 위 쓱쓱 그린 Green
+갇힐 것 하나 없지
+Get up on this
+Hey!
+손과 손 사이 미묘해졌지
+느낌 알지 지금부터
+1, 2, 3!
+Baby you make me smile
+네 Style은 다 맞아
+그게 너라서 더 좋아
+Got that one of a kind
+You got it
+‘Cause you’re just my type and
+I like your style
+Dududu dududu
+Dududu dududu
+‘Cause you’re just my type and
+I like your style
+Dududu dududu
+Dududu dududu
+Yeah you’re just my type and I
+like your style
+넌 왜 늘 튀는데
+진짜 재밌어
+그 별난 유니버스
+열심이지 않아 꾸미지 않아
+그게 뭐야
+그런데 이상해 왜 너만 보여
+Baby you make me smile
+네 Style은 다 맞아
+그게 너라서 더 좋아
+Got that one of a kind
+You got it
+‘Cause you’re just my type and
+I like your style
+오늘부터잖아 Just like that
+너도 내 방식을 좋아해
+너는 내 타입, 나만의 Style
+폰에는 하트 가득한데
+오늘부터잖아 Just like that
+너도 내 방식을 좋아해
+‘Cause you’re just my type and
+I like your style
+```
